@@ -1,0 +1,30 @@
+.mammal {
+  color: red;
+  background-color: lavenderblush;
+  font-weight: bold;
+}
+
+.bird {
+  color: blue;
+  background: lightgray;
+  font-style: italic;
+}
+
+.fish {
+  color: blue;
+  background-color: lightyellow;
+  text-decoration: underline;
+}
+
+ul {
+  border-width: 3px;
+  color: plum;
+  border-style: dotted;
+  border-radius: 5px;
+}
+
+li{
+  border-top: 3px;
+  color: seagreen;
+  border-style: solid;
+}
